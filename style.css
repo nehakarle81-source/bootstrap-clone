@@ -1,1 +1,15 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
 
+.hero {
+  height: 100vh;
+  background: linear-gradient(135deg, #4b0082, #1e3c72);
+}
+
+.code-box {
+  background: rgba(255,255,255,0.1);
+  border-radius: 10px;
+  display: inline-block;
+}
